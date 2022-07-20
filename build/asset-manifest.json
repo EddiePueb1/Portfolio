@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55b235cf.chunk.css",
+    "main.js": "/static/js/main.277f4a33.chunk.js",
+    "main.js.map": "/static/js/main.277f4a33.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
+    "static/js/2.7cf3c261.chunk.js": "/static/js/2.7cf3c261.chunk.js",
+    "static/js/2.7cf3c261.chunk.js.map": "/static/js/2.7cf3c261.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.55b235cf.chunk.css.map": "/static/css/main.55b235cf.chunk.css.map",
+    "static/js/2.7cf3c261.chunk.js.LICENSE.txt": "/static/js/2.7cf3c261.chunk.js.LICENSE.txt",
+    "static/media/Rhodes.9ee57c3c.png": "/static/media/Rhodes.9ee57c3c.png",
+    "static/media/img.c4bef1d3.svg": "/static/media/img.c4bef1d3.svg",
+    "static/media/profileImage.3acea93b.JPG": "/static/media/profileImage.3acea93b.JPG",
+    "static/media/updatedRes.6754ab7a.png": "/static/media/updatedRes.6754ab7a.png",
+    "static/media/v1.64c52858.mp4": "/static/media/v1.64c52858.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ebc510a.js",
+    "static/js/2.7cf3c261.chunk.js",
+    "static/css/main.55b235cf.chunk.css",
+    "static/js/main.277f4a33.chunk.js"
+  ]
+}
