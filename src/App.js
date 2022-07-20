@@ -35,13 +35,8 @@ function App() {
           window.location.href = "https://github.com/eddievonfleet"
         }}/>
 
-        <Route path="/p" component={() => {
-          window.location.href = "https://www.instagram.com/paulaviloriaa/"
-        }}/>
         
-        <Route path="/Reg" component={() => {
-          window.location.href = "https://www.twitch.tv/lulbutta"
-        }}/>
+      
         
         
         

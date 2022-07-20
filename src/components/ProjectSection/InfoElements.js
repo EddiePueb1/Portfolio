@@ -38,3 +38,6 @@ export const ProjectImg = styled.img`
   border-radius: 25px 25px 75px 75px;
   padding: 0px 0px 20px;
 `;
+
+
+

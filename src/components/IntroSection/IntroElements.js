@@ -79,16 +79,17 @@ export const Img = styled.img`
   animation: 2s ease ${imgLoadIn};
 
 
-  @media screen and (max-width: 1256px){
-    width: 25%;
+  @media screen and (max-width: 1260px){
+    width:  18%;
     transform: scale(1.15);
     height: 20%
     
   }
-  @media screen and (max-width: 786px){
-    width: 30%;
+  
+  @media only screen and (max-width: 720px){
+    width: 32%;
     transform: scale(1);
-    height: 0%
+    height: 0%;
     
   }
 `;
@@ -124,9 +125,6 @@ export const Subtext = styled.p`
 
 `;
 
-// export const BtnWrap = styled.div`
-//   background-color: red;
-// `;
 
 export const Button = styled.button`
   padding: 20px;

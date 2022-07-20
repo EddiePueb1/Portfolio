@@ -1,5 +1,5 @@
 import React from 'react'
-import Video from '../../videos/video1.mp4'
+import Video from '../../videos/v1.mp4'
 import Profile from '../../Images/profileImage.JPG'
 import {
   IntroContainer,
@@ -27,7 +27,7 @@ const Intro = ({ headline, description, }) => {
   return (
     <IntroContainer id="home">
       <BdropBg>
-        <VideoBg autoPlay loop muted src={Video} type="video/mp4" />
+        <VideoBg autoPlay loop muted src={Video} type=" video/mp4" />
       </BdropBg>
       <HomeContainer>
         <SvgDiv>

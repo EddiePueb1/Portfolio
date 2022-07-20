@@ -13,7 +13,7 @@ import {
 } from './InfoElements'
 import { Data } from './Data.js';
 import { FaBars } from 'react-icons/fa';
-import Rioz from '../../Images/Rioz.png'
+// import Rioz from '../../Images/Rioz.png';
 import { LinkButton } from '../LinkButton';
 import { BsBoxArrowInUpRight } from 'react-icons/bs';
 

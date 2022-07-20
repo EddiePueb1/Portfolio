@@ -25,11 +25,9 @@ export const Title = styled.h1`
 
 
 export const NavLinkContainer = styled.div`
-  display: flex;
+  display: block;
   align-items: center;
-  justify-content: space-between;
-  margin: 70px;
-  // border: solid;
+  margin: 2rem;
   cursor: pointer;
   color: (--backgroundColor)
 `;
